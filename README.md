@@ -36,6 +36,7 @@ It includes beginner to advanced level problems with optimized solutions and cle
 ---
 
 ## 🗂️ Folder Structure
+```
 DSA-with-CPP/
 │
 ├── Arrays/
@@ -47,6 +48,8 @@ DSA-with-CPP/
 ├── Sorting/
 ├── Dynamic_Programming/
 └── Greedy/
+```
+
 
 ---
 
