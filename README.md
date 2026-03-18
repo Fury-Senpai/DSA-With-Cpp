@@ -39,6 +39,7 @@ It includes beginner to advanced level problems with optimized solutions and cle
 ```
 DSA-with-CPP/
 │
+├── Bit_Manipulation/   
 ├── Arrays/
 ├── LinkedList/
 ├── Stack_Queue/
@@ -48,6 +49,7 @@ DSA-with-CPP/
 ├── Sorting/
 ├── Dynamic_Programming/
 └── Greedy/
+
 ```
 
 
